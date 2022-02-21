@@ -1,7 +1,2 @@
-Handler for discord.js version 13
-
-`npm install` - install all required dependancies
-
-`node index.js` - start the project
-
-Only open pull requests for bug fixes, I want to keep the code as clean as possible, thanks!
+# Elemental
+Remember [Elemental 3](https://www.htwins.net/elem3/)? That game like Little Alchemy but with custom Elements? Yeah, I ported it into Discord. Have fun.
